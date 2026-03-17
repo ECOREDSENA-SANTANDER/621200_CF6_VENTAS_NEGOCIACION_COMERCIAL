@@ -11,7 +11,7 @@
       .col-sm-12.col-md-8.col-lg-4.p-0
         img.p-0(src='@/assets/curso/temas/tema8y9/img1.png', alt='')(data-aos="fade-right")
       .col-sm-12.col-md-12.col-lg-6
-        .row.bgazulclaro.p-0(data-aos="fade-left")
+        .row.bg-color-9.p-0(data-aos="fade-left")
           p.p-4.mt-5.mb-5 Cada vez que el cliente en su encuentro con la empresa bien sea de manera presencial o virtual experimenta sensaciones que pueden o no llevarlo a realizar una compra. Para Albrecht (2006) “es un episodio en el cual el cliente entra en contacto con cualquier aspecto de la organización y tiene una impresión sobre la calidad de su servicio” (p. 33).  Igualmente, Siebold (s.f.) trae un concepto de Jan Carlzon “un momento de verdad es cada instante en que un cliente toma contacto con la persona o sistema que da el servicio”.
       
     separador
@@ -111,7 +111,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-sm-12.col-md-12.col-lg-8
-        .row.bgazulclaro.align-items-center.justify-content-center.mb-4(data-aos="zoom-in-left")
+        .row.bg-color-9.align-items-center.justify-content-center.mb-4(data-aos="zoom-in-left")
           .col-lg-3
             .row.align-items-center.justify-content-center
               .col-3.col-md-2.col-lg-5

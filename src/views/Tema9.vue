@@ -67,7 +67,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-sm-12.col-md-12.col-lg-8
         p.mb-5 Existen diversos canales de atención al cliente y la utilización de estos depende de las políticas de la empresa y el público al cual se desea atender, entre ellos figuran:
-        .row.bgazulclaro.align-items-center.justify-content-center.ps-5(data-aos="zoom-in")
+        .row.bg-color-9.align-items-center.justify-content-center.ps-5(data-aos="zoom-in")
           .col-lg-4.mt-5.mb-5
             ul.lista-ul--color.fa-al
               li.mb-0 
