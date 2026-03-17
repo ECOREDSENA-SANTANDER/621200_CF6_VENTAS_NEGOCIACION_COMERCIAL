@@ -9,7 +9,7 @@
 
     .row.justify-content-center.align-items-center(data-aos="zoom-in")
       .col-sm-12.col-md-12.col-lg-10
-        .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5
+        .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema6y7/img3.png')})`}"
           )
