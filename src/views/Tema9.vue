@@ -11,7 +11,7 @@
       .col-12.col-md-10.col-lg-4
         img(src='@/assets/curso/temas/tema8y9/img2.png', alt='')(data-aos="zoom-in-right")
       .col-sm-12.col-md-12.col-lg-8
-        .cajon.color-acento-contenido.p-4.mb-4(data-aos="zoom-in-left")
+        .cajon.color-secundario.p-4.mb-4(data-aos="zoom-in-left")
           p.p-4 La trazabilidad es una serie de normas, procedimientos que permiten realizar un seguimiento al producto durante su proceso de fabricación, despacho y entrega al cliente, esta trazabilidad se realiza con el apoyo de tecnologías de georreferenciación aplicadas al producto.  
         p La trazabilidad del servicio es el seguimiento o sondeo que se hace del producto o servicio según los procedimientos establecidos, con el fin de conocer la ubicación y trayectoria del producto o servicio a lo largo de la cadena logística, para lo cual se utilizan algunas herramientas, la trazabilidad es la capacidad de reconstruir la historia y recorrido de un producto o servicio. Para ello, se debe tener en cuenta lo siguiente:
     
@@ -55,7 +55,7 @@
         img(data-aos="fade-right")(src='@/assets/curso/temas/tema8y9/img3.png', alt='')
       .col-sm-12.col-md-12.col-lg-8
         p En la cadena de suministros se realiza seguimiento a la entrega de los productos desde producción hasta la entrega del producto a los clientes, para realizar este seguimiento la empresa utiliza herramientas que apoyan este monitoreo con códigos de barras, apoyados por sistemas de radiofrecuencia (RFID), códigos alfanuméricos u otras tecnologías más avanzadas de geolocalización.
-        .cajon.color-acento-contenido.p-4.mb-4(data-aos="fade-left")
+        .cajon.color-secundario.p-4.mb-4(data-aos="fade-left")
           p La Norma ISO 9000 regula las normas de Control de calidad y gestión de calidad del proceso en la trazabilidad.  
 
     .row.align-items-center.mb-5.titulo-icono

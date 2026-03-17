@@ -22,7 +22,7 @@
 
     .row.justify-content-center.align-items-center
       .col-sm-12.col-md-12.col-lg-8
-        .cajon.color-acento-contenido.p-4.mb-4(data-aos="fade-right")
+        .cajon.color-secundario.p-4.mb-4(data-aos="fade-right")
           p.p-4 El triángulo del servicio se construye a partir de las relaciones que tiene la empresa con los clientes cada vez que el servicio es solicitado, por tanto, la principal característica son los momentos de verdad. Son estos momentos los que la empresa tiene en cuenta para lograr la experiencia de servicio y esa estructura está diseñada para tal fin. 
         p Otras características son los requerimientos, procesos y procedimiento de cada momento de verdad, planear cada uno de esos encuentros con el objeto de que salga bien cada encuentro.
       .col-10.col-md-8.col-lg-4

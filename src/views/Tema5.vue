@@ -12,7 +12,7 @@
         img(src='@/assets/curso/temas/tema4y5/img2.png', alt='')(data-aos="fade-right")
       .col-sm-12.col-md-12.col-lg-8
         p En la prestación del servicio por parte de la empresa y en la atención al cliente por parte de los empleados a parte de recibir al cliente y causarle una experiencia satisfactoria que haga que regrese, está conocer en qué momento de esos encuentros el cliente siente insatisfacción hacia el establecimiento, marca u otra causa que lo coloque en posición de perderlo. Tenga en cuenta que la prestación del servicio puede estar acompañada de la calidad del producto, de la capacitación de los empleados, de la empresa enfocada en el servicio, por ello, los clientes siempre están dispuestos a expresar su inconformidad.
-        .cajon.color-acento-contenido.p-4(data-aos="fade-left")
+        .cajon.color-secundario.p-4(data-aos="fade-left")
           p.p-3 Por tanto, la razón principal de alinear los esfuerzos y recursos para identificar inconformidades o hallazgos es la gestión de reclamos, quejas y peticiones de manera eficiente, que haga sentir al cliente que está siendo comprendido y atendido.
 
     separador
@@ -64,7 +64,7 @@
       .col-sm-12.col-md-12.col-lg-8
         p.mb-4 La empresa y el asesor comercial deben tener siempre presente que el servicio es lo que los clientes piensan que es, por tanto, las acciones que se tomen deben ir dirigidas a llenar esas expectativas. 
         p.mb-4 Algunas acciones de mejora que las empresas pueden implementar para la prestación del servicio son:
-        .row.mt-4.bgazulclaro
+        .row.mt-4.bg-color-9
           ul.lista-ul--color.fa-al.ps-5.mb-5.mt-5
             li.mb-0 
               i.fas.fa-check-circle
@@ -83,27 +83,27 @@
 
     .row
       SlyderF(columnas="col-lg-6 col-xl-4 col-md-6").mb-5
-        .tarjeta.colorazulclaro.p-4
+        .tarjeta.bg-color-8.p-4
           .row.justify-content-center.p-4
             img.mt-2(src='@/assets/curso/temas/tema4y5/ico1-1.png' alt='AvatarTop').img95
             p.text-center.mt-4.mb-4(data-aos="fade-right") Asignar responsabilidades para gestionar las reclamaciones.
-        .tarjeta.colorazulclaro.p-4
+        .tarjeta.bg-color-8.p-4
           .row.justify-content-center.p-4
             img.mt-2(src='@/assets/curso/temas/tema4y5/ico1-2.png' alt='AvatarTop').img95
             p.text-center.mt-4.mb-4(data-aos="fade-right") Considerar las diferentes opciones de denuncia (PQR) por parte del cliente y detallar las formas en que se considera aceptable esa reclamación.
-        .tarjeta.colorazulclaro.p-4
+        .tarjeta.bg-color-8.p-4
           .row.justify-content-center.p-4
             img.mt-2(src='@/assets/curso/temas/tema4y5/ico1-3.png' alt='AvatarTop').img95
             p.text-center.mt-4.mb-4(data-aos="fade-right") Definir cómo gestionar las reclamaciones: utilizar un flujograma desde que se inicia la queja hasta darle solución.
-        .tarjeta.colorazulclaro.p-4
+        .tarjeta.bg-color-8.p-4
           .row.justify-content-center.p-4
             img.mt-2(src='@/assets/curso/temas/tema4y5/ico1-4.png' alt='AvatarTop').img95
             p.text-center.mt-4.mb-4(data-aos="fade-right") Explicar cómo subir de nivel un problema. Referente a quiénes les toca dar solución a la reclamación.
-        .tarjeta.colorazulclaro.p-4
+        .tarjeta.bg-color-8.p-4
           .row.justify-content-center.p-4
             img.mt-2(src='@/assets/curso/temas/tema4y5/ico1-5.png' alt='AvatarTop').img95
             p.text-center.mt-4.mb-4(data-aos="fade-right") Detallar el proceso de revisión continua de la reclamación.
-        .tarjeta.colorazulclaro.p-4
+        .tarjeta.bg-color-8.p-4
           .row.justify-content-center.p-4
             img.mt-2(src='@/assets/curso/temas/tema4y5/ico1-6.png' alt='AvatarTop').img95
             p.text-center.mt-4.mb-4(data-aos="fade-right") Evaluar la eficacia de las medidas adoptadas para su gestión.
