@@ -45,7 +45,7 @@
               .col-lg-4.col-md-10.mb-4.mb-md-0 
                 img.mt-4(src='@/assets/curso/temas/tema8y9/tar1-4.png', alt='Texto que describa la imagen')
 
-  .container.tarjeta.tarjeta--moradaadv
+  .container.tarjeta.bg-color-6
     .row.align-items-center.justify-content-center.mb-1.mt-1
       .col-2
         img.p-4(data-aos="zoom-in-right")(src='@/assets/curso/temas/tema8y9/adv.png', alt='')
@@ -64,42 +64,42 @@
     .row.justify-content-center.justify-content-center
       .col-sm-12.col-lg-3.col-md-12.mb-4(data-aos="fade-right")
         .overflow-hidden.h-100.p-2
-          .row.align-items-center.justify-content-center.bgfondotema2.p-1
+          .row.align-items-center.justify-content-center.bg-color-10.br-2.p-1
             .col-5.col-md-3.col-lg-6
               img.mt-4(src='@/assets/curso/temas/tema8y9/ico1-1.png', alt='').mb-4
             .row.justify-content-center.mb-3.mt-3
               .col-12
-                .bgmoradomedio
+                .bg-color-8
                   h3.text-center.mb-0.p-1 El soporte interno
             p.mb-5.text-center.p-4 Lo conforma esa parte interna que no es visible al servicio, pero desde ahí se produce.
       .col-sm-12.col-lg-3.col-md-12.mb-4(data-aos="fade-right")
         .overflow-hidden.h-100.p-2
-          .row.align-items-center.justify-content-center.bgfondotema2.p-1
+          .row.align-items-center.justify-content-center.bg-color-10.br-2.p-1
             .col-5.col-md-3.col-lg-6
               img.mt-4(src='@/assets/curso/temas/tema8y9/ico1-2.png', alt='').mb-4
             .row.justify-content-center.mb-3.mt-4
               .col-12
-                .bgmoradomedio
+                .bg-color-8
                   h3.text-center.mb-0.p-1 El soporte físico
             p.mb-5.text-center.p-4 Está conformado por los equipos físicos que son necesarios para prestar el servicio.
       .col-sm-12.col-lg-3.col-md-12.mb-4(data-aos="fade-right")
         .overflow-hidden.h-100.p-2
-          .row.align-items-center.justify-content-center.bgfondotema2.p-1
+          .row.align-items-center.justify-content-center.bg-color-10.br-2.p-1
             .col-5.col-md-3.col-lg-6
               img.mt-4(src='@/assets/curso/temas/tema8y9/ico1-3.png', alt='').mb-4
             .row.justify-content-center.mt-3
               .col-12
-                .bgmoradomedio
+                .bg-color-8
                   h3.text-center.mb-0 El personal de contacto
             p.text-center.p-5 Es quien sirve a los clientes sobre las necesidades del servicio.
       .col-sm-12.col-lg-3.col-md-12.mb-4(data-aos="fade-right")
         .overflow-hidden.h-100.p-2
-          .row.align-items-center.justify-content-center.bgfondotema2.p-1
+          .row.align-items-center.justify-content-center.bg-color-10.br-2.p-1
             .col-5.col-md-3.col-lg-6
               img.mt-4(src='@/assets/curso/temas/tema8y9/ico1-4.png', alt='').mb-4
             .row.justify-content-center.mb-3.mt-3
               .col-12
-                .bgmoradomedio
+                .bg-color-8
                   h3.text-center.mb-0.p-1 El cliente y el servicio
             p.text-center.p-4 Lo conforman todos los procesos necesarios para satisfacer al cliente y la capacidad para realizar mejoras en el servicio. 
 
@@ -111,15 +111,15 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-sm-12.col-md-12.col-lg-8
-        .row.bg-color-9.align-items-center.justify-content-center.mb-4(data-aos="zoom-in-left")
+        .row.bg-color-6.align-items-center.justify-content-center.mb-4(data-aos="zoom-in-left")
           .col-lg-3
             .row.align-items-center.justify-content-center
               .col-3.col-md-2.col-lg-5
                 img.p-1(src='@/assets/curso/temas/tema8y9/flecha-arriba.png', alt='')
           .col-lg-8
-            h5.mt-4.mb-4 Momentos de verdad positivos: 
-            p.mt-4 Aquellos que satisfacen las expectativas de los clientes y que permiten convertirlos en clientes fieles y leales.
-        .row.bgrosado2.align-items-center.justify-content-center(data-aos="zoom-in-right")
+            h5.mt-4.mb-4.text-white Momentos de verdad positivos: 
+            p.mt-4.text-white Aquellos que satisfacen las expectativas de los clientes y que permiten convertirlos en clientes fieles y leales.
+        .row.bg-color-12.align-items-center.justify-content-center(data-aos="zoom-in-right")
           .col-lg-3
             .row.align-items-center.justify-content-center
               .col-3.col-md-2.col-lg-5
