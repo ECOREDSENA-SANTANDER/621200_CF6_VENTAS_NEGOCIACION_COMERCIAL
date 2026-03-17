@@ -42,17 +42,18 @@
       .col-10.col-md-8.col-lg-4.p-0.mb-0.mt-0
         img(data-aos="fade-right")(src='@/assets/curso/temas/tema1/img1.png', alt='')
       .col-sm-12.col-md-12.col-lg-6
-        .row.bgazulclaro
+        .row.bg-color-9
           p.p-4.mt-5.mb-4 Con base en los conceptos anteriores se puede expresar que el servicio es el conjunto de actividades que se realizan para satisfacer las necesidades de los clientes, desde que tienen contacto con la empresa hasta finalizar el ciclo del servicio. Es importante anotar que el asesor comercial de manera individual se acerca al cliente teniendo en cuenta sus características, sus necesidades y expectativas; por lo anterior, se debe hacer el seguimiento para identificar no solo esos comportamientos para realizar las ventas sino igualmente en la postventa.
 
-    .subt.mb-4(data-aos="fade-right")
-      .d-flex.align-items-center.mb-1
+    .row.align-items-center.mb-5.titulo-icono
+      .col-auto.titulo-icono-img
         img(src='@/assets/curso/temas/icono.svg', alt='')
-        h3.mb-0.ms-2 Servicio visible & Servicio invisible
+      .col
+        h3.mb-0.titulo-icono-text.px-0.py-2  Servicio visible & Servicio invisible
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
-        .bloque-texto-g.bloque-texto-g--inverso.color-acento-contenido.p-3.p-sm-4.p-md-5
+        .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img2.png')})`}"
           )
@@ -63,39 +64,43 @@
 
     .row.mb-4
       .col-sm-6.col-xl-3.mb-4.mb-xl-0
-        .tarjeta.tarjeta-slide.arriba.color-primario(@mouseover="indicadorTarjetaSlide = false")
+        .tarjeta.tarjeta-slide.arriba.bg-color-10(@mouseover="indicadorTarjetaSlide = false")
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-4.p-xl-5
               img.p-5(src='@/assets/curso/temas/tema1/ico1-1.png', alt='')
-              h5.text-center Contexto inanimado
+              .bg-color-8.py-2.mb-2
+                h5.text-center Contexto inanimado
               p.text-center La oficina de un agente de seguros, escritorios, teléfonos, PC, etc.
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/tar1-1.png')})`}")
       .col-sm-6.col-xl-3.mb-4.mb-xl-0
-        .tarjeta.tarjeta-slide.arriba.color-primario(@mouseover="indicadorTarjetaSlide = false")
+        .tarjeta.tarjeta-slide.arriba.bg-color-10(@mouseover="indicadorTarjetaSlide = false")
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-4.p-xl-5
               img.p-5(src='@/assets/curso/temas/tema1/ico1-2.png', alt='')
-              h5.text-center Personal de contacto
+              .bg-color-8.py-2.mb-2
+                h5.text-center Personal de contacto
               p.text-center Los empleados que interactúan con el cliente.
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/tar1-2.png')})`}")
       .col-sm-6.col-xl-3.mb-4.mb-xl-0
-        .tarjeta.tarjeta-slide.arriba.color-primario(@mouseover="indicadorTarjetaSlide = false")
+        .tarjeta.tarjeta-slide.arriba.bg-color-10(@mouseover="indicadorTarjetaSlide = false")
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-4.p-xl-5
               img.p-5(src='@/assets/curso/temas/tema1/ico1-3.png', alt='')
-              h5.text-center Prestadores de servicios
+              .bg-color-8.py-2.mb-2
+                h5.text-center Prestadores de servicios
               p.text-center Son quienes prestan el servicio directamente al cliente.
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/tar1-3.png')})`}")
       .col-sm-6.col-xl-3.mb-4.mb-xl-0
-        .tarjeta.tarjeta-slide.arriba.color-primario(@mouseover="indicadorTarjetaSlide = false")
+        .tarjeta.tarjeta-slide.arriba.bg-color-10(@mouseover="indicadorTarjetaSlide = false")
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-4.p-xl-5
               img.p-5(src='@/assets/curso/temas/tema1/ico1-4.png', alt='')
-              h5.text-center Otros Clientes
+              .bg-color-8.py-2.mb-2
+                h5.text-center Otros Clientes
               p.text-center Los clientes que reciben el mismo servicio y pueden influir de manera positiva o negativa en su uso futuro.
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/tar1-4.png')})`}")
 
@@ -125,22 +130,22 @@
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/temas/tema1/pc1.png', alt='Texto que describa la imagen')
-          .tarjeta.bgpcmorada.text-white.p-3(x="14%" y="61%" numero="1")
+          .tarjeta.bg-color-10.p-3(x="19%" y="61%" numero="1")
             .h5.mt-4 Empatía por las necesidades del comprador
             p.mt-4 Capacidad de interesarse por las demás personas y ayudar en la solución de sus problemas.
-          .tarjeta.bgpcmorada.text-white.p-3(x="79%" y="62%" numero="2")
+          .tarjeta.bg-color-10.p-3(x="83%" y="62%" numero="2")
             .h5.mt-4 Servicio ágil y resolutivo
             p.mt-4 El solo deseo de atender bien a la persona no es suficiente, la empresa debe contar de manera organizada para hacer efectiva las PQR que realicen los clientes.
-          .tarjeta.bgpcmorada.text-white.p-3(x="58%" y="23%" numero="3")
+          .tarjeta.bg-color-10.p-3(x="62.5%" y="23%" numero="3")
             .h5.mt-4 Anticiparse a los posibles problemas
             p.mt-4 El vendedor debe ser proactivo, adelantarse a situaciones para dar solución antes que el cliente lo detecte, por ejemplo, si un producto que se vendió tiene fallas, recogerlo cuanto antes.
-          .tarjeta.bgpcmorada.text-white.p-3(x="43%" y="50%" numero="4")
+          .tarjeta.bg-color-10.p-3(x="46.5%" y="50%" numero="4")
             .h5.mt-4 Comunicación clara, fluida y concisa
             p.mt-4 El servicio ayuda a la empresa y el vendedor a tener una relación duradera y rentable.
-          .tarjeta.bgpcmorada.text-white.p-3(x="85%" y="15%" numero="5")
+          .tarjeta.bg-color-10.p-3(x="87.5%" y="15%" numero="5")
             .h5.mt-4 Experiencia personalizada
             p.mt-4 El trato personalizado de frente al cliente y enfocado en sus necesidades deja gratas experiencias, también puede realizarse utilizando la omnicanalidad dando respuestas inmediatas.
-          .tarjeta.bgpcmorada.text-white.p-3(x="31%" y="26%" numero="6")
+          .tarjeta.bg-color-10.p-3(x="35%" y="26%" numero="6")
             .h5.mt-4 Sensación de haber recibido un servicio excelente
             p.mt-4 Problema resuelto a satisfacción, es cliente que vuelve a comprar.
 

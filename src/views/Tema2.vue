@@ -23,10 +23,11 @@
 
     p.mb-4 En la actualidad existen herramientas que contribuyen al mejoramiento de las relaciones con el cliente, lo que se denomina gestión de las relaciones, esta estrategia combina la tecnología de la información con la cultura organizacional, en la cual el principal objetivo es mantener excelentes relaciones y satisfacer las necesidades de los clientes. 
 
-    .subt.mb-4(data-aos="fade-right")
-      .d-flex.align-items-center.mb-1
+    .row.align-items-center.mb-5.titulo-icono
+      .col-auto.titulo-icono-img
         img(src='@/assets/curso/temas/icono.svg', alt='')
-        h3.mb-0.ms-2 Protocolo de atención en la relación con el cliente
+      .col
+        h3.mb-0.titulo-icono-text.px-0.py-2  Protocolo de atención en la relación con el cliente
     
     p.mb-3 A continuación, lo puede consultar:
 
@@ -114,10 +115,11 @@
                       i.fas.fa-check-circle
                       span.mb-0 #[b Conclusión y cierre.] Saludo de despedida y agradecimiento cuando el cliente ha satisfecho su necesidad.
       
-    .subt.mb-4(data-aos="fade-right")
-      .d-flex.align-items-center.mb-1
+    .row.align-items-center.mb-5.titulo-icono
+      .col-auto.titulo-icono-img
         img(src='@/assets/curso/temas/icono.svg', alt='')
-        h3.mb-0.ms-2 Ejemplo de protocolo de atención al cliente
+      .col
+        h3.mb-0.titulo-icono-text.px-0.py-2  Ejemplo de protocolo de atención al cliente
 
     .row.justify-content-center.align-items-center.mb-5
       .col-sm-12.col-md-12.col-lg-8.mt-3

@@ -110,6 +110,10 @@ figcaption, table caption
     background-color: #A6CDEC
   &-8
     background-color: $color-secundario
+  &-9
+    background-color: #B5C7D1
+  &-10
+    background-color: #E5EFD6
 
 .linea-tiempo-c__header__btn, .linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right, .pasos-b__header__btn--left, .pasos-b__header__btn--right, .linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right, .pasos-b__header__btn--left, .pasos-b__header__btn--right
     border: 0 !important
@@ -138,14 +142,7 @@ figcaption, table caption
 /*********************************************************/
 
 
-.titulo-segundo:after 
-  content: ''
-  display: block
-  height: 4.5px
-  width: 140px
-  border-left: solid 50px
-  border-left-color: #3AE3FE
-  background-color: #e8e8e8
+
 
 .banner-interno__fondo    
   background-image: url("../assets/curso/portada/portada.png") !important
@@ -264,13 +261,15 @@ figcaption, table caption
   background-position: cover
 
 .slyder-a__bullets__item 
-    background-color: #6E3DC6
-    opacity: .4
+    background-color: #91AFBE
 
 .slyder-a__bullets__item--active 
-    background-color: #6E3DC6
-    border-color:#6E3DC6
+    background-color: $color-acento-botones
+    border-color: $color-acento-botones
     opacity: 1 !important
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs 
+    background-color: $color-acento-botones !important
 
 @media (max-width: 768px) 
     .slyder-a__bullets__item 
@@ -298,16 +297,16 @@ figcaption, table caption
     transition: opacity 0.3s ease-in-out, box-shadow 0.3s ease-in-out
     cursor: pointer
 
-// tab tema 1
-
-.tabs-a__tab 
-    background-color:  #6E3DC6
-    color: white
+.tabs-a__tab
+    background-color: $color-acento-botones
+.tabs-a.color-acento-botones .tabs-a__tab__selected,
+.tabs-a.color-acento-botones .tabs-a__tab__selected:before
+    background-color: $color-secundario !important
 
 .tarjeta.color-secundario--borde
-    background-color:  #F2E4F5
+    background-color:  #C2F4F8
+    border: solid 1px  #C2F4F8
     color: #12263F
-    border: solid 1px  #F2E4F5
 
 // tarjeta avatar tema 1
 

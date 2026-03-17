@@ -32,10 +32,11 @@
         p.mt-5 Teniendo en cuenta esta información se hace posible la entrega de productos o servicios a mercados específicos, garantizando con certeza el origen y la historia de estos, la trazabilidad se asocia a procesos y procedimientos. 
         p.mb-4 Apoyado en esa información, es posible entregar productos y servicios definidos a mercados específicos, con la garantía de conocer con certeza el origen y la historia de este. La trazabilidad está asociada, sin duda, a procesos y procedimientos competitivos modernos y a productos y servicios de mayor calidad y valor para el cliente final. 
 
-    .subt.mb-4(data-aos="fade-right")
-      .d-flex.align-items-center.mb-1
+    .row.align-items-center.mb-5.titulo-icono
+      .col-auto.titulo-icono-img
         img(src='@/assets/curso/temas/icono.svg', alt='')
-        h3.mb-0.ms-2 Elementos para la trazabilidad en el servicio
+      .col
+        h3.mb-0.titulo-icono-text.px-0.py-2 Elementos para la trazabilidad en el servicio
 
     p.mb-4 De acuerdo con Geinfor (s.f.) los elementos que componen la trazabilidad y que garantizan la información histórica, la ubicación y trayectoria del producto son:
 
@@ -43,10 +44,11 @@
       .col-lg-12
         SlyderB.mb-5.p-5.bgfondotema9(:datos="datosSlyder")
 
-    .subt.mb-4(data-aos="fade-right")
-      .d-flex.align-items-center.mb-1
+    .row.align-items-center.mb-5.titulo-icono
+      .col-auto.titulo-icono-img
         img(src='@/assets/curso/temas/icono.svg', alt='')
-        h3.mb-0.ms-2 Herramientas para la trazabilidad en el servicio
+      .col
+        h3.mb-0.titulo-icono-text.px-0.py-2  Herramientas para la trazabilidad en el servicio
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-md-10.col-lg-4
@@ -56,10 +58,11 @@
         .cajon.color-acento-contenido.p-4.mb-4(data-aos="fade-left")
           p La Norma ISO 9000 regula las normas de Control de calidad y gestión de calidad del proceso en la trazabilidad.  
 
-    .subt.mb-4(data-aos="fade-right")
-      .d-flex.align-items-center.mb-1
+    .row.align-items-center.mb-5.titulo-icono
+      .col-auto.titulo-icono-img
         img(src='@/assets/curso/temas/icono.svg', alt='')
-        h3.mb-0.ms-2 Canales
+      .col
+        h3.mb-0.titulo-icono-text.px-0.py-2  Canales
 
     .row.justify-content-center.align-items-center.mb-5
       .col-sm-12.col-md-12.col-lg-8
