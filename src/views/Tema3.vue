@@ -43,7 +43,7 @@
         .row.justify-content-center.mb-5.ps-5
           .col-sm-12.col-md-12.col-lg-8
             .row.mt-5
-              .cajon.color-acento-contenido.p-4.mb-4
+              .cajon.color-secundario.p-4.mb-4
                 p.p-3 NTC - ISO 9000-2015 es la norma técnica de gestión de la calidad vigente para el servicio al cliente. Las normas técnicas y de calidad están dirigidas a todas las entidades para mejorar el desempeño y la capacidad de proporcionar productos y servicios que cumplan con las necesidades y las expectativas del cliente.
             p La empresa debe mejorar la atención al cliente, prestando un servicio de información y consulta a usuarios de acuerdo con sus requerimientos, teniendo en cuenta las políticas institucionales y los términos establecidos por la ley, esto hecho de manera personal o por medios tecnológicos, aplicando actitudes y valores mediante la comunicación empresarial y las normas de gestión documental, de acuerdo con los estándares de calidad que garantice la atención al cliente.
           .col-12.col-md-8.col-lg-4
