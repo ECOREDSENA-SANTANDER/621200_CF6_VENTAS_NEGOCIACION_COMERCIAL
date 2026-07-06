@@ -86,7 +86,7 @@ export default {
       {
         nombreRuta: 'tema6',
         numero: '6',
-        titulo: 'Ciclo de servicio',
+        titulo: 'Ciclo del servicio',
         desarrolloContenidos: true,
       },
       {
@@ -238,7 +238,7 @@ export default {
     {
       termino: 'Momento de verdad',
       significado:
-        '“Es un episodio en el cual el cliente entra en contacto con cualquier aspecto de la organización y tiene una impresión sobre la calidad de su servicio” (Albrecht, 2006).',
+        '“es un episodio en el cual el cliente entra en contacto con cualquier aspecto de la organización y tiene una impresión sobre la calidad de su servicio” (Albrecht, 2006).',
     },
     {
       termino: 'Personal de contacto',
@@ -284,48 +284,43 @@ export default {
   referencias: [
     {
       referencia:
-        'Albrecht, K. (2006). La revolución del servicio. Temas gerenciales 1ª edición. Editorial 3R Editores.',
+        'Albrecht, K. (2006). La revolución del servicio. 3R Editores.',
       link: '',
     },
     {
       referencia:
-        'Beetrack. (sf). Las características de un buen servicio al cliente.',
-      link:
-        'https://www.beetrack.com/es/blog/como-dar-buen-servicio-al-cliente-sector-logistico',
+        'Beetrack. (s.f.). Las características de un buen servicio al cliente.',
+      link: '',
     },
     {
       referencia:
         'Cámara de Comercio de Cartagena. (2014). Procedimiento atención de PQRS.',
-      link: 'https://www.cccartagena.org.co/pqrsd',
-    },
-    {
-      referencia:
-        'Da Silva, D. (2020). Diferencia entre atención al cliente y servicio al cliente. ',
-      link:
-        'https://www.zendesk.com.mx/blog/diferencia-servicio-atencion-al-cliente/ ',
-    },
-    {
-      referencia:
-        'Geinfor. (sf). Cómo implementar un sistema de trazabilidad en tu empresa.',
-      link:
-        'https://geinfor.com/business/como-implementar-un-sistema-de-trazabilidad-en-tu-empresa/',
-    },
-    {
-      referencia:
-        'ISOTools. (2016). Cómo definir un proceso para gestionar las reclamaciones de los clientes.',
-      link:
-        'https://co.isotools.us/definir-proceso-gestionar-las-reclamaciones-los-clientes/',
-    },
-    {
-      referencia:
-        'Prieto, J. (2014). Gerencia del servicio. 3ª edición. Ecoe Ediciones. ',
       link: '',
     },
     {
       referencia:
-        'Siebold, M. (s.f.). Momentos de verdad en la administración del servicio.',
-      link:
-        'http://www.mercadeo.com/blog/1967/09/momentos-de-verdad-en-la-administracion-del-servicio/',
+        'Da Silva, D. (2020). Diferencia entre atención al cliente y servicio al cliente. Zendesk.',
+      link: '',
+    },
+    {
+      referencia:
+        'Geinfor. (s.f.). Cómo implementar un sistema de trazabilidad en tu empresa.',
+      link: '',
+    },
+    {
+      referencia:
+        'ISOTools. (2016). Cómo definir un proceso para gestionar las reclamaciones de los clientes.',
+      link: '',
+    },
+    {
+      referencia:
+        'Prieto, J. (2014). Gerencia del servicio (3.ª ed.). Ecoe Ediciones.',
+      link: '',
+    },
+    {
+      referencia:
+        'Siebold, M. (s. f.). Momentos de verdad en la administración del servicio. Mercadeo.com.',
+      link: '',
     },
   ],
   creditos: [
@@ -334,8 +329,9 @@ export default {
       autores: [
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Responsable del ecosistema',
-          centro: 'Dirección General',
+          cargo:
+            'Profesional 06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Edison Eduardo Mantilla Cuadros',
@@ -391,7 +387,7 @@ export default {
         },
         {
           nombre: 'Lizeth Karina Manchego Suarez',
-          cargo: 'Desarrolladora <i>full-stack</i> Junior',
+          cargo: 'Desarrolladora <i>full-stack</i>',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -410,8 +406,8 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Andrea Ardila Chaparro',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          nombre: 'Laura Paola Gelvez Manosalva',
+          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],

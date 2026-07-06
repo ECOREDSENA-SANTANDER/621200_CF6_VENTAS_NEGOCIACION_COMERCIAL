@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p.mb-5 La atención al cliente es un valor agregado que se ofrece al consumidor que se interesa y/o compra el producto o servicio ofrecido por las empresas, en este componente se realiza un desglose detallado de las características, las ventajas y los conceptos importantes que tienen que ver con la atención y el servicio al cliente, competencia necesaria para un asesor comercial. En el siguiente diagrama se presenta una síntesis del contenido trabajado: 
+    p.mb-5 La atención al cliente es un valor agregado que se ofrece al consumidor que se interesa y / o compra el producto o servicio ofrecido por las empresas, en este componente se realiza un desglose detallado de las características, las ventajas y los conceptos importantes que tienen que ver con la atención y el servicio al cliente, competencia necesaria para un asesor comercial. En el siguiente diagrama se presenta una síntesis del contenido trabajado: 
 
     .row.justify-content-center
       .col-lg-12.mb-5

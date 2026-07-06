@@ -56,7 +56,7 @@
       .col-sm-12.col-md-12.col-lg-8
         p En la cadena de suministros se realiza seguimiento a la entrega de los productos desde producción hasta la entrega del producto a los clientes, para realizar este seguimiento la empresa utiliza herramientas que apoyan este monitoreo con códigos de barras, apoyados por sistemas de radiofrecuencia (RFID), códigos alfanuméricos u otras tecnologías más avanzadas de geolocalización.
         .cajon.color-secundario.p-4.mb-4(data-aos="fade-left")
-          p La Norma ISO 9000 regula las normas de Control de calidad y gestión de calidad del proceso en la trazabilidad.  
+          p La Norma ISO 9000 regula las normas de control de calidad y gestión de calidad del proceso en la trazabilidad.  
 
     .row.align-items-center.mb-5.titulo-icono
       .col-auto.titulo-icono-img
@@ -72,7 +72,7 @@
             ul.lista-ul--color.fa-al
               li.mb-0 
                 i.fas.fa-check-circle
-                span.mb-0 El teléfono y/o móvil.
+                span.mb-0 El teléfono y / o móvil.
               li.mb-0 
                 i.fas.fa-check-circle
                 span.mb-0 Correo electrónico.

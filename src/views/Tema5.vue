@@ -18,7 +18,7 @@
     separador
     #t_5_1.titulo-segundo.mb-4
       h2 5.1. Tipos de hallazgos
-    p.mb-4 Desde el punto de vista del cliente cualquier evento que no esté en sus expectativas puede originar que no esté satisfecho y, corresponde a la empresa identificar qué tipo de incidencia lo afecta. La Cámara de Comercio de Cartagena (2014) define la manera de cómo identificar esos hallazgos:
+    p.mb-4 Desde el punto de vista del cliente cualquier evento que no esté en sus expectativas puede originar que no esté satisfecho y, corresponde a la empresa identificar qué tipo de incidencia lo afecta. La Cámara de Comercio de Cartagena (2014) define la manera de identificar esos hallazgos:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-md-8.col-lg-4
