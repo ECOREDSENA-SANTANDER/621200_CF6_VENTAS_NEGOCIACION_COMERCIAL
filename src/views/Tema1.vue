@@ -49,7 +49,7 @@
       .col-auto.titulo-icono-img
         img(src='@/assets/curso/temas/icono.svg', alt='')
       .col
-        h3.mb-0.titulo-icono-text.px-0.py-2  Servicio visible & servicio invisible
+        h3.mb-0.titulo-icono-text.px-0.py-2  Servicio visible y servicio invisible
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10

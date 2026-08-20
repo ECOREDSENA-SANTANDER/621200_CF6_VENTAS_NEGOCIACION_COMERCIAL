@@ -183,8 +183,7 @@ export default {
       referencia:
         'Da Silva, D. (2020). Diferencia entre atención al cliente y servicio al cliente. ',
       tipo: 'Página web',
-      link:
-        'https://www.zendesk.com.mx/blog/diferencia-servicio-atencion-al-cliente/ ',
+      link: 'https://www.zendesk.com.mx/blog/diferencia-servicio-atencion-al-cliente/ ',
     },
     {
       tema: 'Atención al cliente',
@@ -198,8 +197,7 @@ export default {
       referencia:
         'Beetrack. (sf). Las características de un buen servicio al cliente.',
       tipo: 'Página web',
-      link:
-        'https://www.beetrack.com/es/blog/como-dar-buen-servicio-al-cliente-sector-logistico',
+      link: 'https://www.beetrack.com/es/blog/como-dar-buen-servicio-al-cliente-sector-logistico',
     },
     {
       tema: 'Ciclo de servicio',
@@ -213,8 +211,7 @@ export default {
       referencia:
         'Geinfor. (sf). Cómo implementar un sistema de trazabilidad en tu empresa.',
       tipo: 'Página web',
-      link:
-        'https://geinfor.com/business/como-implementar-un-sistema-de-trazabilidad-en-tu-empresa/',
+      link: 'https://geinfor.com/business/como-implementar-un-sistema-de-trazabilidad-en-tu-empresa/',
     },
     {
       tema: 'Triángulo del servicio',
@@ -406,7 +403,7 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Laura Paola Gelvez Manosalva',
+          nombre: 'Sandra Liliana Cristancho Cruz',
           cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
