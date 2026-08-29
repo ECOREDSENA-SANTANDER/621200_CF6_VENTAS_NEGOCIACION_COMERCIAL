@@ -15,12 +15,12 @@
         .titulo-sexto.color-secundario.mb-4
           h5 Figura 3. 
           | El ciclo del servicio
-        img(src='@/assets/curso/temas/tema6y7/fig1.png', alt='La figura presenta un circulo, donde resaltan los “momentos de verdad y el inicio y fin del ciclo.')
+        img(src='@/assets/curso/temas/tema6y7/fig1.png', alt='La figura presenta un circulo, donde resaltan los momentos de verdad y el inicio y fin del ciclo.')
         figcaption Nota. Adaptada de Albrecht (2006).
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-md-8.col-lg-4
-        img(src='@/assets/curso/temas/tema6y7/img1.png', alt='')(data-aos="fade-right")
+        img(src='@/assets/curso/temas/tema6y7/img1.png')(data-aos="fade-right")
       .col-sm-12.col-md-12.col-lg-8
         p.mb-4 Esto inicia desde que el cliente muestra interés y se genera comunicación entre el cliente y la empresa, en el que se presenta una serie de actividades hasta llegar al final del proceso que el cliente considera y vuelve nuevamente a iniciarse. Para su elaboración se relaciona un círculo, y de forma secuencial, se presenta cada uno de los ciclos denominados momentos de verdad, estos deben ser numerados y se registran teniendo en cuenta el punto de vista del cliente; motivo por el cual se presentan de forma positiva o negativa de acuerdo con la percepción y sensación de él.
         p Los ciclos de servicio permiten a la empresa:
@@ -53,7 +53,7 @@
           .tarjeta.color-secundario--borde.p-4(titulo="Monitorear la satisfacción")
             p.ps-4 Asegurarse de la satisfacción del cliente y despedirlo con protocolos.
       .col-8.col-md-7.col-lg-2
-        img.mt-2(src='@/assets/curso/temas/tema6y7/img2.png', alt='')(data-aos="fade-left")
+        img.mt-2(src='@/assets/curso/temas/tema6y7/img2.png')(data-aos="fade-left")
 
     p.mb-4 Dicho eso, el foco vital de las organizaciones debe ser crear relaciones saludables con los clientes para conquistarlos en todos los puntos de contacto, es por ello que en el ciclo de vida del servicio se reconoce su importancia, características, las diferentes etapas que posee, así como los diferentes indicadores y métricas que permiten hacer una correcta medición del servicio, tal y como se presenta a continuación:
     .bg-full-width.bg-color-1.mb-5(data-aos='fade-right')
@@ -67,18 +67,18 @@
                     p.mb-4 El ciclo de servicio al cliente muestra el servicio como lo experimenta el cliente, permite identificar cuál es ese encuentro entre el cliente y el sistema (establecimiento físico, empleados, mercancía, ambiente) que causa la inconformidad del cliente y que debe ser solucionada.
                     p Otra importancia significativa de los ciclos del servicio al cliente es que permiten conocer las debilidades y fortalezas que presenta la empresa al darse el contacto organización-cliente, además de permitir identificar aquello que debe ser mejorado y que le daría ventaja competitiva.
                   .col-md-4
-                    img(src='@/assets/curso/temas/tema6y7/lt1-1.png', alt='Texto que describa la imagen')
+                    img(src='@/assets/curso/temas/tema6y7/lt1-1.png')
                 .row(titulo="Características").align-items-center.justify-content-center
                   .col-md-6.mb-4.mb-md-0
                     h3.mb-4 Características del ciclo del servicio
                     p.mb-4 La principal característica del ciclo del servicio en el proceso son los encuentros o momentos de verdad entre el cliente y el sistema. La percepción que tenga el cliente de estos encuentros puede ser positiva o negativa, en función de cómo se haya sentido en el momento en que el asesor comercial o quien le ofrece el servicio lo haya atendido.
                     p Otras características son los requerimientos, procesos y procedimiento de cada momento de verdad, planear cada uno de esos encuentros con el objeto de que salga bien cada encuentro.
                   .col-md-4
-                    img(src='@/assets/curso/temas/tema6y7/lt1-2.png', alt='Texto que describa la imagen')
+                    img(src='@/assets/curso/temas/tema6y7/lt1-2.png')
                 .row(titulo="Etapas").align-items-center.justify-content-center
                   .col-md-10.mb-4.mb-md-0
                     h3.mb-4 Etapas del ciclo del servicio
-                    p.mb-4 Están relacionadas con la manera cómo el cliente toma su decisión de compra para satisfacer su necesidad. De tal forma que cuando el cliente define el sitio donde va a visitar cada paso que toma va conformando su ciclo de servicio. A continuación, se presenta como ejemplo el ciclo del servicio de un centro médico (Albrecht, 2006, p.41).
+                    p.mb-4 Están relacionadas con la manera cómo el cliente toma su decisión de compra para satisfacer su necesidad. De tal forma que cuando el cliente define el sitio que va a visitar, cada paso que toma va conformando su ciclo de servicio. A continuación, se presenta como ejemplo el ciclo del servicio de un centro médico (Albrecht, 2006, p.41).
                     .row.align-items-center.justify-content-center
                       .col-6
                         ul.lista-ul--color.fa-al.mb-4
@@ -150,7 +150,7 @@
                 .row(titulo="Medición").align-items-center.justify-content-center
                   .col-md-6.mb-4.mb-md-0
                     h3.mb-4 Medición del servicio
-                    p.mb-4 Se entiende los indicadores o métricas de satisfacción del cliente como aquellos datos que permiten medir el estado con relación al servicio o producto ofrecido. Serna (2007) señala indicadores de medición del servicio.
+                    p.mb-4 Se entienden los indicadores o métricas de satisfacción del cliente como aquellos datos que permiten medir el estado con relación al servicio o producto ofrecido. Serna (2007) señala indicadores de medición del servicio.
                     p.mb-4 ¿Cómo medir la calidad en el servicio?
                     ul.lista-ul--color.fa-al.mb-4
                       li.mb-0 
@@ -181,7 +181,7 @@
                         i.fas.fa-check-circle
                         span.mb-0 Servicio asociado a lo pactado.
                   .col-md-4
-                    img(src='@/assets/curso/temas/tema6y7/lt1-3.png', alt='Texto que describa la imagen')
+                    img(src='@/assets/curso/temas/tema6y7/lt1-3.png')
 
 </template>
 

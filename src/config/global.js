@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Atención al cliente',
     Description:
-      'El servicio y atención al cliente es una actividad importante para el asesor comercial, con herramientas y técnicas identifica situaciones que le permiten tomar acciones de mejora que logran relaciones duraderas con el cliente. El vendedor conocerá cómo define la empresa el triángulo del servicio, los momentos de verdad, el ciclo del servicio al cliente y cómo medir la trazabilidad de servicio.',
+      'El servicio y atención al cliente son actividades importantes para el asesor comercial, quien, mediante herramientas y técnicas, identifica situaciones que le permiten tomar acciones de mejora que logran relaciones duraderas con el cliente. El vendedor conocerá cómo define la empresa el triángulo del servicio, los momentos de verdad, el ciclo del servicio al cliente y cómo medir la trazabilidad del servicio.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     /*imagenesDecorativasBanner: [
@@ -78,7 +78,7 @@ export default {
           },
           {
             numero: '5.2',
-            titulo: 'Acciones de mejora',
+            titulo: 'Acciones de mejora en la atención al cliente',
             hash: 't_5_2',
           },
         ],
@@ -97,7 +97,7 @@ export default {
         subMenu: [
           {
             numero: '7.1',
-            titulo: 'Característica del triángulo del servicio',
+            titulo: 'Características del triángulo del servicio',
             hash: 't_7_1',
           },
           {
@@ -163,7 +163,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CF6_631101_DU.pdf',
+        download: 'downloads/CF6_621200_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -177,53 +177,7 @@ export default {
       },
     ],
   },
-  complementario: [
-    {
-      tema: 'Atención al cliente',
-      referencia:
-        'Da Silva, D. (2020). Diferencia entre atención al cliente y servicio al cliente. ',
-      tipo: 'Página web',
-      link:
-        'https://www.zendesk.com.mx/blog/diferencia-servicio-atencion-al-cliente/ ',
-    },
-    {
-      tema: 'Atención al cliente',
-      referencia:
-        'Serna, H., Barrios, C., Barrios, A. y Castillo, M. (2007). Cómo medir al cliente. Editorial 3R Editores. ',
-      tipo: 'Libro',
-      link: 'https://isbn.cloud/9789583036422/como-medir-el-valor-del-cliente/',
-    },
-    {
-      tema: 'Características de la atención al cliente',
-      referencia:
-        'Beetrack. (sf). Las características de un buen servicio al cliente.',
-      tipo: 'Página web',
-      link:
-        'https://www.beetrack.com/es/blog/como-dar-buen-servicio-al-cliente-sector-logistico',
-    },
-    {
-      tema: 'Ciclo de servicio',
-      referencia:
-        'Da Silva, D. (2020). Protocolo de atención al cliente: 4 beneficios para empresas.',
-      tipo: 'Página web',
-      link: 'https://www.zendesk.com.mx/blog/protocolo-de-atencion-al-cliente/',
-    },
-    {
-      tema: 'Trazabilidad de servicio al cliente',
-      referencia:
-        'Geinfor. (sf). Cómo implementar un sistema de trazabilidad en tu empresa.',
-      tipo: 'Página web',
-      link:
-        'https://geinfor.com/business/como-implementar-un-sistema-de-trazabilidad-en-tu-empresa/',
-    },
-    {
-      tema: 'Triángulo del servicio',
-      referencia:
-        'Cano, Y. (s.f). Ceiba. Triángulo del servicio: una mirada estratégica para los negocios. ',
-      tipo: 'Página web',
-      link: 'https://www.ceiba.com.co/triangulo-del-servicio/  ',
-    },
-  ],
+  complementario: [],
   glosario: [
     {
       termino: 'Atención al cliente',
@@ -233,7 +187,7 @@ export default {
     {
       termino: 'Intangible',
       significado:
-        'No se puede tocar, oler, no tienen acceso a la propiedad, no se pueden cargar, ni llevar.',
+        'No se puede tocar, ni oler, no tienen acceso a la propiedad, no se pueden cargar, ni llevar.',
     },
     {
       termino: 'Momento de verdad',
@@ -273,12 +227,12 @@ export default {
     {
       termino: 'Sugerencia',
       significado:
-        'Es la aportación de ideas o iniciativas para mejorar nuestra calidad.',
+        'Es la aportación de ideas o iniciativas para mejorar la calidad del servicio.',
     },
     {
       termino: 'Trazabilidad',
       significado:
-        'Es una serie de normas, procedimientos que permiten realizar un seguimiento al producto durante su proceso de fabricación, despacho y entrega al cliente, esta trazabilidad se realiza con el apoyo de tecnologías de georreferenciación aplicadas al producto. ',
+        'Es una serie de normas y procedimientos que permiten realizar un seguimiento al producto durante su proceso de fabricación, despacho y entrega al cliente, esta trazabilidad se realiza con el apoyo de tecnologías de georreferenciación aplicadas al producto. ',
     },
   ],
   referencias: [
@@ -289,7 +243,7 @@ export default {
     },
     {
       referencia:
-        'Beetrack. (s.f.). Las características de un buen servicio al cliente.',
+        'Beetrack. (s. f.). Las características de un buen servicio al cliente.',
       link: '',
     },
     {
@@ -304,7 +258,7 @@ export default {
     },
     {
       referencia:
-        'Geinfor. (s.f.). Cómo implementar un sistema de trazabilidad en tu empresa.',
+        'Geinfor. (s. f.). Cómo implementar un sistema de trazabilidad en tu empresa.',
       link: '',
     },
     {
@@ -330,7 +284,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Profesional 06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
+            'Profesional G06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -392,7 +346,7 @@ export default {
         },
         {
           nombre: 'María Alejandra Vera Briceño',
-          cargo: 'Animadora y producción audiovisual',
+          cargo: 'Animadora y productora audiovisual',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],

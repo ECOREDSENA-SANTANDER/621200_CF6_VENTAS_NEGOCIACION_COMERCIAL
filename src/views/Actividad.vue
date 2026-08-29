@@ -20,7 +20,7 @@ export default {
       tema: 'Atención al cliente',
       titulo: 'Cuestionario',
       introduccion:
-        'Validar el conocimiento adquirido sobre la atención al cliente.',
+        '<b>Objetivo:</b> validar el conocimiento adquirido sobre la atención al cliente.',
       barajarPreguntas: false,
       preguntas: [
         {

@@ -9,7 +9,7 @@
 
     .row.justify-content-center.align-items-center
       .col-12.col-md-8.col-lg-4
-        img(src='@/assets/curso/temas/tema4y5/img2.png', alt='')(data-aos="fade-right")
+        img(src='@/assets/curso/temas/tema4y5/img2.png')(data-aos="fade-right")
       .col-sm-12.col-md-12.col-lg-8
         p En la prestación del servicio por parte de la empresa y en la atención al cliente por parte de los empleados a parte de recibir al cliente y causarle una experiencia satisfactoria que haga que regrese, está conocer en qué momento de esos encuentros el cliente siente insatisfacción hacia el establecimiento, marca u otra causa que lo coloque en posición de perderlo. Tenga en cuenta que la prestación del servicio puede estar acompañada de la calidad del producto, de la capacitación de los empleados, de la empresa enfocada en el servicio, por ello, los clientes siempre están dispuestos a expresar su inconformidad.
         .cajon.color-secundario.p-4(data-aos="fade-left")
@@ -22,7 +22,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-md-8.col-lg-4
-        img(src='@/assets/curso/temas/tema4y5/img3.png', alt='')(data-aos="fade-left")
+        img(src='@/assets/curso/temas/tema4y5/img3.png')(data-aos="fade-left")
       .col-sm-12.col-md-12.col-lg-8(data-aos="zoom-in")
         TabsC.color-acento-contenido
           .py-3.py-md-4(titulo="P")
@@ -31,28 +31,28 @@
                 h4 Petición:
                 p Facultad que tienen todas las personas de presentar solicitudes respetuosas a entidades de carácter público o privado, por motivos de interés general o particular, bajo la garantía de obtener una respuesta oportuna, clara, completa y de fondo.           
               .col-md-5
-                img(src='@/assets/curso/temas/tema4y5/tab1-1.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema4y5/tab1-1.png')
           .py-3.py-md-4(titulo="Q")
             .row.justify-content-center.align-items-center
               .col-md-5.mb-4.mb-md-0
                 h4 Quejas:
                 p Manifestación de inconformidad sobre la irregularidad administrativa, una conducta incorrecta o acción irregular de un funcionario.      
               .col-md-5
-                img(src='@/assets/curso/temas/tema4y5/tab1-2.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema4y5/tab1-2.png')
           .py-3.py-md-4(titulo="R")
             .row.justify-content-center.align-items-center
               .col-md-5.mb-4.mb-md-0
                 h4 Reclamos:
                 p Manifestación de inconformidad sobre la prestación de un servicio o deficiente actuación por parte de una autoridad administrativa.      
               .col-md-5
-                img(src='@/assets/curso/temas/tema4y5/tab1-3.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema4y5/tab1-3.png')
           .py-3.py-md-4(titulo="S")
             .row.align-items-center.justify-content-center
               .col-md-5.mb-4.mb-md-0
                 h4 Sugerencia:
-                p Es la aportación de ideas o iniciativas para mejorar nuestra calidad.     
+                p Es la aportación de ideas o iniciativas para mejorar la calidad del servicio.     
               .col-md-5
-                img(src='@/assets/curso/temas/tema4y5/tab1-4.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema4y5/tab1-4.png')
 
     separador
     #t_5_2.titulo-segundo.mb-4
@@ -60,7 +60,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-md-8.col-lg-4
-        img(src='@/assets/curso/temas/tema4y5/img4.png', alt='')(data-aos="fade-right")
+        img(src='@/assets/curso/temas/tema4y5/img4.png')(data-aos="fade-right")
       .col-sm-12.col-md-12.col-lg-8
         p.mb-4 La empresa y el asesor comercial deben tener siempre presente que el servicio es lo que los clientes piensan que es, por tanto, las acciones que se tomen deben ir dirigidas a llenar esas expectativas. 
         p.mb-4 Algunas acciones de mejora que las empresas pueden implementar para la prestación del servicio son:
@@ -85,27 +85,27 @@
       SlyderF(columnas="col-lg-6 col-xl-4 col-md-6").mb-5
         .tarjeta.bg-color-8.p-4
           .row.justify-content-center.p-4
-            img.mt-2(src='@/assets/curso/temas/tema4y5/ico1-1.png' alt='AvatarTop').img95
+            img.mt-2(src='@/assets/curso/temas/tema4y5/ico1-1.png').img95
             p.text-center.mt-4.mb-4(data-aos="fade-right") Asignar responsabilidades para gestionar las reclamaciones.
         .tarjeta.bg-color-8.p-4
           .row.justify-content-center.p-4
-            img.mt-2(src='@/assets/curso/temas/tema4y5/ico1-2.png' alt='AvatarTop').img95
+            img.mt-2(src='@/assets/curso/temas/tema4y5/ico1-2.png').img95
             p.text-center.mt-4.mb-4(data-aos="fade-right") Considerar las diferentes opciones de denuncia (PQR) por parte del cliente y detallar las formas en que se considera aceptable esa reclamación.
         .tarjeta.bg-color-8.p-4
           .row.justify-content-center.p-4
-            img.mt-2(src='@/assets/curso/temas/tema4y5/ico1-3.png' alt='AvatarTop').img95
+            img.mt-2(src='@/assets/curso/temas/tema4y5/ico1-3.png').img95
             p.text-center.mt-4.mb-4(data-aos="fade-right") Definir cómo gestionar las reclamaciones: utilizar un flujograma desde que se inicia la queja hasta darle solución.
         .tarjeta.bg-color-8.p-4
           .row.justify-content-center.p-4
-            img.mt-2(src='@/assets/curso/temas/tema4y5/ico1-4.png' alt='AvatarTop').img95
+            img.mt-2(src='@/assets/curso/temas/tema4y5/ico1-4.png').img95
             p.text-center.mt-4.mb-4(data-aos="fade-right") Explicar cómo subir de nivel un problema. Referente a quiénes les toca dar solución a la reclamación.
         .tarjeta.bg-color-8.p-4
           .row.justify-content-center.p-4
-            img.mt-2(src='@/assets/curso/temas/tema4y5/ico1-5.png' alt='AvatarTop').img95
+            img.mt-2(src='@/assets/curso/temas/tema4y5/ico1-5.png').img95
             p.text-center.mt-4.mb-4(data-aos="fade-right") Detallar el proceso de revisión continua de la reclamación.
         .tarjeta.bg-color-8.p-4
           .row.justify-content-center.p-4
-            img.mt-2(src='@/assets/curso/temas/tema4y5/ico1-6.png' alt='AvatarTop').img95
+            img.mt-2(src='@/assets/curso/temas/tema4y5/ico1-6.png').img95
             p.text-center.mt-4.mb-4(data-aos="fade-right") Evaluar la eficacia de las medidas adoptadas para su gestión.
 
 </template>

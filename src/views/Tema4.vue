@@ -20,7 +20,7 @@
             i.fas.fa-quote-right.comillamorada
         p.mt-0 Tanto la fidelización de los  clientes como el asesor comercial son importantes para la empresa porque buscan que el cliente siga comprando y aumentando sus ventas. Tenga en cuenta que las acciones de fidelización se aplican a los clientes que vienen comprando y están satisfechos, a los demás se les recomienda otras acciones.
       .col-12.col-md-8.col-lg-4(data-aos="fade-right")
-        img(src='@/assets/curso/temas/tema4y5/img1.png', alt='')
+        img(src='@/assets/curso/temas/tema4y5/img1.png')
 
     p.mb-5 De acuerdo con Promove (2019) para que una empresa tenga clientes fieles se debe tener en cuenta lo siguiente:
 
@@ -29,7 +29,7 @@
         ImagenInfografica.color-acento-botones
           template(v-slot:imagen)
             figure
-              img(src='@/assets/curso/temas/tema4y5/pc1.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema4y5/pc1.png')
           .tarjeta.bg-color-10.p-3(x="54%" y="30%" numero="1")
             p.mt-4 Mantener calidad y seriedad en la relación.
           .tarjeta.bg-color-10.p-3(x="74%" y="45%" numero="2")
@@ -51,7 +51,7 @@
           .tarjeta.bg-color-10.p-3(x="30%" y="13%" numero="10")
             p.mt-4 #[b Regalos.] Por cumplir cuotas de compra en un periodo de tiempo.
           .tarjeta.bg-color-10.p-3(x="84%" y="21%" numero="11")
-            p.mt-4 #[b Gestión de la relación con el cliente.] Invitar al cliente a participar en alguna actividad o promociones, por ejemplo el madrugón de precios.
+            p.mt-4 #[b Gestión de la relación con el cliente.] Invitar al cliente a participar en alguna actividad o promoción, por ejemplo, el madrugón de precios.
           .tarjeta.bg-color-10.p-3(x="90%" y="56%" numero="12")
             p.mt-4 #[b Club de clientes.] Grupos que la empresa organiza, por ejemplo, el club de la pintura reúne a todos los interesados en pintar, reciben cursos y promociones.
 

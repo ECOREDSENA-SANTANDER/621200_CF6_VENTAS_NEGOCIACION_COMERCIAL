@@ -9,10 +9,10 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-md-10.col-lg-4
-        img(src='@/assets/curso/temas/tema8y9/img2.png', alt='')(data-aos="zoom-in-right")
+        img(src='@/assets/curso/temas/tema8y9/img2.png')(data-aos="zoom-in-right")
       .col-sm-12.col-md-12.col-lg-8
         .cajon.color-secundario.p-4.mb-4(data-aos="zoom-in-left")
-          p.p-4 La trazabilidad es una serie de normas, procedimientos que permiten realizar un seguimiento al producto durante su proceso de fabricación, despacho y entrega al cliente, esta trazabilidad se realiza con el apoyo de tecnologías de georreferenciación aplicadas al producto.  
+          p.p-4 La trazabilidad es una serie de normas y procedimientos que permiten realizar un seguimiento al producto durante su proceso de fabricación, despacho y entrega al cliente, esta trazabilidad se realiza con el apoyo de tecnologías de georreferenciación aplicadas al producto.  
         p La trazabilidad del servicio es el seguimiento o sondeo que se hace del producto o servicio según los procedimientos establecidos, con el fin de conocer la ubicación y trayectoria del producto o servicio a lo largo de la cadena logística, para lo cual se utilizan algunas herramientas, la trazabilidad es la capacidad de reconstruir la historia y recorrido de un producto o servicio. Para ello, se debe tener en cuenta lo siguiente:
     
     .row.justify-content-center.align-items-center(data-aos="zoom-in")
@@ -20,7 +20,7 @@
         ImagenInfografica.color-acento-botones
           template(v-slot:imagen)
             figure
-              img(src='@/assets/curso/temas/tema8y9/info1.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema8y9/info1.png')
           .tarjeta.borde-especial1.p-3(x="28%" y="28%" numero="+")
             p.mb-0.mt-0 El origen de los componentes del producto o de las circunstancias de este o si se trata de las situaciones de un servicio.
           .tarjeta.borde-especial2.p-3(x="26%" y="63%" numero="+")
@@ -34,11 +34,11 @@
 
     .row.align-items-center.mb-5.titulo-icono
       .col-auto.titulo-icono-img
-        img(src='@/assets/curso/temas/icono.svg', alt='')
+        img(src='@/assets/curso/temas/icono.svg')
       .col
         h3.mb-0.titulo-icono-text.px-0.py-2 Elementos para la trazabilidad en el servicio
 
-    p.mb-4 De acuerdo con Geinfor (s.f.) los elementos que componen la trazabilidad y que garantizan la información histórica, la ubicación y trayectoria del producto son:
+    p.mb-4 De acuerdo con Geinfor (s. f.) los elementos que componen la trazabilidad y que garantizan la información histórica, la ubicación y trayectoria del producto son:
 
     .row.justify-content-center.align-items-center(data-aos="zoom-in")
       .col-lg-12
@@ -46,13 +46,13 @@
 
     .row.align-items-center.mb-5.titulo-icono
       .col-auto.titulo-icono-img
-        img(src='@/assets/curso/temas/icono.svg', alt='')
+        img(src='@/assets/curso/temas/icono.svg')
       .col
         h3.mb-0.titulo-icono-text.px-0.py-2  Herramientas para la trazabilidad en el servicio
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-md-10.col-lg-4
-        img(data-aos="fade-right")(src='@/assets/curso/temas/tema8y9/img3.png', alt='')
+        img(data-aos="fade-right")(src='@/assets/curso/temas/tema8y9/img3.png')
       .col-sm-12.col-md-12.col-lg-8
         p En la cadena de suministros se realiza seguimiento a la entrega de los productos desde producción hasta la entrega del producto a los clientes, para realizar este seguimiento la empresa utiliza herramientas que apoyan este monitoreo con códigos de barras, apoyados por sistemas de radiofrecuencia (RFID), códigos alfanuméricos u otras tecnologías más avanzadas de geolocalización.
         .cajon.color-secundario.p-4.mb-4(data-aos="fade-left")
@@ -60,7 +60,7 @@
 
     .row.align-items-center.mb-5.titulo-icono
       .col-auto.titulo-icono-img
-        img(src='@/assets/curso/temas/icono.svg', alt='')
+        img(src='@/assets/curso/temas/icono.svg')
       .col
         h3.mb-0.titulo-icono-text.px-0.py-2  Canales
 
@@ -92,7 +92,7 @@
                 span.mb-0 Redes sociales: Facebook, X, Instagram, entre otras.
         p.mt-5 Cabe resaltar que la tecnología ha tenido un gran avance con el paso de los años y, actualmente, los empresarios tienen diferentes formas de comunicarse con los clientes de una forma ágil, personalizada y oportuna.
       .col-12.col-md-10.col-lg-4
-        img(src='@/assets/curso/temas/tema8y9/img4.png', alt='')(data-aos="fade-left")
+        img(src='@/assets/curso/temas/tema8y9/img4.png')(data-aos="fade-left")
 
 </template>
 
@@ -105,7 +105,7 @@ export default {
       {
         titulo: 'Sistema de identificación',
         texto:
-          'Los sistemas de identificación son uno de los componentes básicos de cualquier seguimiento de la trazabilidad en el ámbito empresarial. Mediante estos sistemas se hace posible la identificación de los artículos, ya sea de forma individual o agrupados en lotes. Igualmente, permiten la identificación de los embalajes y cajas relacionas con la logística de almacén y reparto.',
+          'Los sistemas de identificación son uno de los componentes básicos de cualquier seguimiento de la trazabilidad en el ámbito empresarial. Mediante estos sistemas se hace posible la identificación de los artículos, ya sea de forma individual o agrupados en lotes. Igualmente, permiten la identificación de los embalajes y cajas relacionadas con la logística de almacén y reparto.',
         imagen: require('@/assets/curso/temas/tema8y9/sly1-1.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
@@ -126,7 +126,7 @@ export default {
       {
         titulo: 'Los datos para registrar',
         texto:
-          'Una vez se tienen todos los datos llega el momento de registrarlos, analizarlos y darles un uso adecuado. La información sobre la trazabilidad va a ser muy diferente, dependiendo de la clase de producto, del sector empresarial y de cuáles son los requerimientos del usuario final.',
+          'Una vez se tienen todos los datos, llega el momento de registrarlos, analizarlos y darles un uso adecuado. La información sobre la trazabilidad va a ser muy diferente, dependiendo de la clase de producto, del sector empresarial y de cuáles son los requerimientos del usuario final.',
         imagen: require('@/assets/curso/temas/tema8y9/sly1-4.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },

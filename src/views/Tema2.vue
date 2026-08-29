@@ -14,18 +14,18 @@
           | Relaciones con clientes
         img(data-aos="fade-right")(src='@/assets/curso/temas/tema2/fig1.png', alt='La imagen simula un panal de abejas, y en diferentes celdas se lee: Precios, distribuidores, comerciantes, clientes, cadena de valor.')
       .col-sm-12.col-md-12.col-lg-8
-        p.mb-4 La fidelización se debe entender cómo una acción de la empresa para lograr conseguir relaciones con los clientes que generen acciones redituables y continuadas con la empresa a lo largo del tiempo. 
+        p.mb-4 La fidelización se debe entender como una acción de la empresa para lograr conseguir relaciones con los clientes que generen acciones redituables y continuadas con la empresa a lo largo del tiempo. 
         .row.bgavatarazulclaro(data-aos="fade-left")
           p.mt-5.mb-5.ps-5 #[b Por parte de la empresa], para construir relaciones con los clientes se debe montar una estrategia conducente a que los proveedores, los clientes, distribuidores, comerciantes y públicos interesados mantengan intercambios de interés, precios y de calidad a lo largo del tiempo en la cadena de valor. 
         .row.bgblanco.mt-3
         .row.bg-color-10(data-aos="fade-left")
-          p.mt-5.mb-5.ps-5 #[b Por parte del vendedor], él debe estar en sintonía con los requerimientos de la empresa, ocupándose de resolver los problemas y las situaciones que se le presenten al cliente, puesto que esto representa valor económico y crecimiento personal para el vendedor.
+          p.mt-5.mb-5.ps-5 #[b Por parte del vendedor], debe estar en sintonía con los requerimientos de la empresa, ocupándose de resolver los problemas y las situaciones que se le presenten al cliente, puesto que esto representa valor económico y crecimiento personal para el vendedor.
 
     p.mb-4 En la actualidad existen herramientas que contribuyen al mejoramiento de las relaciones con el cliente, lo que se denomina gestión de las relaciones, esta estrategia combina la tecnología de la información con la cultura organizacional, en la cual el principal objetivo es mantener excelentes relaciones y satisfacer las necesidades de los clientes. 
 
     .row.align-items-center.mb-5.titulo-icono
       .col-auto.titulo-icono-img
-        img(src='@/assets/curso/temas/icono.svg', alt='')
+        img(src='@/assets/curso/temas/icono.svg')
       .col
         h3.mb-0.titulo-icono-text.px-0.py-2  Protocolo de atención en la relación con el cliente
     
@@ -35,7 +35,7 @@
       .col-sm-12.col-lg-4.col-md-12.mb-4(data-aos="fade-right")
         .overflow-hidden.h-100.p-4
           .row.align-items-center.justify-content-center.bg-color-10.p-4
-            img.img95(src='@/assets/curso/temas/tema2/tar1-1.png', alt='').mb-4
+            img.img95(src='@/assets/curso/temas/tema2/tar1-1.png').mb-4
             .row.justify-content-center.mb-3
               .col-12
                 .bg-color-8.p-1 
@@ -44,16 +44,16 @@
       .col-sm-12.col-lg-4.col-md-12.mb-4(data-aos="fade-right")
         .overflow-hidden.h-100.p-4
           .row.align-items-center.justify-content-center.bg-color-10.p-4
-            img.img95(src='@/assets/curso/temas/tema2/tar1-2.png', alt='').mb-4
+            img.img95(src='@/assets/curso/temas/tema2/tar1-2.png').mb-4
             .row.justify-content-center
               .col-12
                 .bg-color-8.p-1 
                   h3.text-center.mb-0 Importancia
-            p.text-center.p-4 La importancia que tiene un protocolo de atención y servicio al cliente radica en la manera cómo los asesores comerciales deben comportarse al atender a los clientes, explica la forma de actuar de los trabajadores en la atención al cliente o en el proceso de ventas, este documento detalla los procedimientos de interacción con el cliente, también debe contener los planes de mejora cuando se presenten hallazgos que desvíen la prestación del servicio.
+            p.text-center.p-4 La importancia que tiene un protocolo de atención y servicio al cliente radica en la manera como los asesores comerciales deben comportarse al atender a los clientes, explica la forma de actuar de los trabajadores en la atención al cliente o en el proceso de ventas, este documento detalla los procedimientos de interacción con el cliente, también debe contener los planes de mejora cuando se presenten hallazgos que desvíen la prestación del servicio.
       .col-sm-12.col-lg-4.col-md-12.mb-4(data-aos="fade-right")
         .overflow-hidden.h-100.p-4
           .row.align-items-center.justify-content-center.bg-color-10.p-4
-            img.img95(src='@/assets/curso/temas/tema2/tar1-3.png', alt='').mb-4
+            img.img95(src='@/assets/curso/temas/tema2/tar1-3.png').mb-4
             .row.justify-content-center.mb-3
               .col-12
                 .bg-color-8.p-1 
@@ -66,33 +66,33 @@
       .col-lg-8.p-0
         .row.justify-content-center
           .col-lg-3.sobavatar2.d-none.d-lg-block(data-aos="fade-right")
-            img(src="@/assets/curso/temas/tema2/avar1-1.png", alt="alt")
+            img(src="@/assets/curso/temas/tema2/avar1-1.png")
           .col-lg-9(data-aos="fade-left")
             .bg-color-11.borde-redondo-arriba.p-3
               h3.moverderecha2.mt-4.mb-2 Atención robusta al cliente
               p.moverderecha2.mb-4 Cada vez que se repite la misma acción entre los trabajadores, el servicio se perfecciona.
         .row.justify-content-center
           .col-lg-3.sobavatar2.d-none.d-lg-block(data-aos="fade-right")
-            img(src="@/assets/curso/temas/tema2/avar1-2.png", alt="alt")
+            img(src="@/assets/curso/temas/tema2/avar1-2.png")
           .col-lg-9(data-aos="fade-left")
             .bg-color-2.p-3
               h3.moverderecha2.mt-4.mb-2 Procesos iguales en la atención al cliente
               p.moverderecha2.mb-4 Para cada momento de encuentro con el cliente desde su llegada hasta en la postventa debe ser el mismo método de trabajo.
         .row.justify-content-center
           .col-lg-3.sobavatar2.d-none.d-lg-block(data-aos="fade-right")
-            img(src="@/assets/curso/temas/tema2/avar1-3.png", alt="alt")
+            img(src="@/assets/curso/temas/tema2/avar1-3.png")
           .col-lg-9(data-aos="fade-left")
             .bg-color-9.borde-redondo-abajo.p-3
               h3.moverderecha2.mt-4.mb-2 Capacitación permanente
               p.moverderecha2.mb-4 En cada uno de los procesos lo que permite un alto nivel de calidad.
       .col-lg-4.p-0
-        img(src='@/assets/curso/temas/tema2/img1.png', alt='')
+        img(src='@/assets/curso/temas/tema2/img1.png')
 
-    p.mb-5 Para la construcción del manual de servicio al cliente se debe tener en cuenta los siguientes elementos:
+    p.mb-5 Para la construcción del manual de servicio al cliente, se debe tener en cuenta los siguientes elementos:
 
     .row.align-items-center.justify-content-center.mb-5
         .col-12.col-md-8.col-lg-4
-          img(src='@/assets/curso/temas/tema2/img2.png', alt='')(data-aos="fade-left")
+          img(src='@/assets/curso/temas/tema2/img2.png')(data-aos="fade-left")
         .col-sm-12.col-md-12.col-lg-8.mb-0.mt-4
           .row.bg-color-10.ps-4.mb-0.p-3
             ol.lista-ol--cuadro.lista-ol--separador.fa-ol.ps-3
@@ -117,7 +117,7 @@
       
     .row.align-items-center.mb-5.titulo-icono
       .col-auto.titulo-icono-img
-        img(src='@/assets/curso/temas/icono.svg', alt='')
+        img(src='@/assets/curso/temas/icono.svg')
       .col
         h3.mb-0.titulo-icono-text.px-0.py-2  Ejemplo de protocolo de atención al cliente
 
@@ -150,7 +150,7 @@
               i.fas.fa-check-circle
               span.mb-0 Dar despedida en forma cortés, agradecer la compra e invitarlo a regresar.
       .col-12.col-md-8.col-lg-4
-        img.mt-1(src='@/assets/curso/temas/tema2/img3.png', alt='')(data-aos="fade-right")
+        img.mt-1(src='@/assets/curso/temas/tema2/img3.png')(data-aos="fade-right")
         
         
 
