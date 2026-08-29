@@ -48,9 +48,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los fundamentos de la Atención al cliente.',
+            'Se evidencia un adecuado dominio de los fundamentos de la atención al cliente.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo Atención al cliente.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo atención al cliente.',
         },
         {
           id: 2,
@@ -77,9 +77,9 @@ export default {
             { id: 'd', texto: 'Comunicación limitada.', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los fundamentos de la Atención al cliente.',
+            'Se evidencia un adecuado dominio de los fundamentos de la atención al cliente.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo Atención al cliente.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo atención al cliente.',
         },
         {
           id: 3,
@@ -105,9 +105,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los fundamentos de la Atención al cliente.',
+            'Se evidencia un adecuado dominio de los fundamentos de la atención al cliente.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo Atención al cliente.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo atención al cliente.',
         },
         {
           id: 4,
@@ -138,9 +138,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los fundamentos de la Atención al cliente.',
+            'Se evidencia un adecuado dominio de los fundamentos de la atención al cliente.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo Atención al cliente.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo atención al cliente.',
         },
         {
           id: 5,
@@ -164,14 +164,14 @@ export default {
             { id: 'd', texto: 'Para controlar las ventas.', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los fundamentos de la Atención al cliente.',
+            'Se evidencia un adecuado dominio de los fundamentos de la atención al cliente.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo Atención al cliente.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo atención al cliente.',
         },
         {
           id: 6,
           texto: '¿Qué es la fidelización del cliente?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -197,14 +197,14 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los fundamentos de la Atención al cliente.',
+            'Se evidencia un adecuado dominio de los fundamentos de la atención al cliente.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo Atención al cliente.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo atención al cliente.',
         },
         {
           id: 7,
           texto: '¿Qué beneficio aporta la fidelización de clientes?',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -221,14 +221,14 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los fundamentos de la Atención al cliente.',
+            'Se evidencia un adecuado dominio de los fundamentos de la atención al cliente.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo Atención al cliente.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo atención al cliente.',
         },
         {
           id: 8,
           texto: '¿Qué son los hallazgos en la atención al cliente?',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Estrategias de mercadeo.', esCorrecta: false },
@@ -242,14 +242,14 @@ export default {
             { id: 'd', texto: 'Técnicas de distribución.', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los fundamentos de la Atención al cliente.',
+            'Se evidencia un adecuado dominio de los fundamentos de la atención al cliente.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo Atención al cliente.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo atención al cliente.',
         },
         {
           id: 9,
           texto: '¿Cuál es una acción de mejora derivada de los hallazgos?',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -275,15 +275,15 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los fundamentos de la Atención al cliente.',
+            'Se evidencia un adecuado dominio de los fundamentos de la atención al cliente.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo Atención al cliente.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo atención al cliente.',
         },
         {
           id: 10,
           texto:
             '¿Cuál es el primer paso para gestionar adecuadamente una reclamación?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Descartar la queja.', esCorrecta: false },
@@ -296,14 +296,14 @@ export default {
             { id: 'd', texto: 'Suspender la comunicación.', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los fundamentos de la Atención al cliente.',
+            'Se evidencia un adecuado dominio de los fundamentos de la atención al cliente.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo Atención al cliente.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo atención al cliente.',
         },
         {
           id: 11,
           texto: '¿Qué son las relaciones con los clientes?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -325,14 +325,14 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los fundamentos de la Atención al cliente.',
+            'Se evidencia un adecuado dominio de los fundamentos de la atención al cliente.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo Atención al cliente.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo atención al cliente.',
         },
         {
           id: 12,
           texto: '¿Qué función cumplen los protocolos de atención?',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Limitar la comunicación.', esCorrecta: false },
@@ -350,14 +350,14 @@ export default {
             { id: 'd', texto: 'Controlar la competencia.', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los fundamentos de la Atención al cliente.',
+            'Se evidencia un adecuado dominio de los fundamentos de la atención al cliente.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo Atención al cliente.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo atención al cliente.',
         },
         {
           id: 13,
           texto: '¿Por qué son importantes las relaciones con los clientes?',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -383,14 +383,14 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los fundamentos de la Atención al cliente.',
+            'Se evidencia un adecuado dominio de los fundamentos de la atención al cliente.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo Atención al cliente.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo atención al cliente.',
         },
         {
           id: 14,
           texto: '¿Qué es un manual de servicio al cliente?',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Un informe financiero.', esCorrecta: false },
@@ -404,14 +404,14 @@ export default {
             { id: 'd', texto: 'Un contrato comercial.', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los fundamentos de la Atención al cliente.',
+            'Se evidencia un adecuado dominio de los fundamentos de la atención al cliente.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo Atención al cliente.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo atención al cliente.',
         },
         {
           id: 15,
           texto: '¿Qué es el ciclo del servicio?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Un proceso de fabricación.', esCorrecta: false },
@@ -425,14 +425,14 @@ export default {
             { id: 'd', texto: 'Un sistema contable.', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los fundamentos de la Atención al cliente.',
+            'Se evidencia un adecuado dominio de los fundamentos de la atención al cliente.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo Atención al cliente.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo atención al cliente.',
         },
         {
           id: 16,
           texto: '¿Por qué es importante medir el servicio?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Para aumentar los costos.', esCorrecta: false },
@@ -454,14 +454,14 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los fundamentos de la Atención al cliente.',
+            'Se evidencia un adecuado dominio de los fundamentos de la atención al cliente.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo Atención al cliente.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo atención al cliente.',
         },
         {
           id: 17,
           texto: '¿Qué es un momento de verdad?',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -476,17 +476,17 @@ export default {
               esCorrecta: true,
             },
             { id: 'c', texto: 'Un proceso de facturación.', esCorrecta: false },
-            { id: 'd', texto: 'Un tipo de negociación.', esCorrecta: false },
+            { id: 'd', texto: '', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los fundamentos de la Atención al cliente.',
+            'Se evidencia un adecuado dominio de los fundamentos de la atención al cliente.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo Atención al cliente.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo atención al cliente.',
         },
         {
           id: 18,
           texto: '¿Cuál es un elemento de los momentos de verdad?',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'El inventario físico.', esCorrecta: false },
@@ -499,14 +499,14 @@ export default {
             { id: 'd', texto: 'La contabilidad.', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los fundamentos de la Atención al cliente.',
+            'Se evidencia un adecuado dominio de los fundamentos de la atención al cliente.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo Atención al cliente.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo atención al cliente.',
         },
         {
           id: 19,
           texto: '¿Qué es el triángulo del servicio?',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -528,14 +528,14 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los fundamentos de la Atención al cliente.',
+            'Se evidencia un adecuado dominio de los fundamentos de la atención al cliente.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo Atención al cliente.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo atención al cliente.',
         },
         {
           id: 20,
           texto: '¿Qué es la trazabilidad en la atención al cliente?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -557,13 +557,13 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los fundamentos de la Atención al cliente.',
+            'Se evidencia un adecuado dominio de los fundamentos de la atención al cliente.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo Atención al cliente.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo atención al cliente.',
         },
       ],
       mensaje_final_aprobado:
-        '¡Excelente trabajo! Ha demostrado un sólido conocimiento.',
+        'Ha superado la actividad y demuestra sólidos conocimientos sobre la atención al cliente.',
       mensaje_final_reprobado:
         'No ha superado la actividad. Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
     },
