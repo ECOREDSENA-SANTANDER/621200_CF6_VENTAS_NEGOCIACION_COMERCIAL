@@ -107,7 +107,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-sm-12.col-md-12.col-lg-9
         p.mb-2 Las estructuras organizacionales orientadas al mercado dan importancia a la experiencia del consumidor, a sus empleados de base frente a una estrategia de servicio al cliente, utiliza funciones internas para ayudar a los trabajadores a cumplir con los objetivos de servir a los clientes, compartiendo la responsabilidad que implica alcanzar los resultados del negocio, mientras las estructuras organizacionales orientadas a lo tradicional tienden a operar proyectos enormes que conllevan mucho tiempo de implementación, los empleados al frente de la línea de servicios son los menos importantes, cuando en ellos recae el cara a cara con el cliente.
-        p A través de la siguiente figura se prensenta la estructura organizacional tradicional respecto a la orientada al mercado.  
+        p A través de la siguiente figura se presenta la estructura organizacional tradicional respecto a la orientada al mercado.  
       .col-8.col-md-6.col-lg-3
         img(data-aos="fade-left")(src='@/assets/curso/temas/tema1/img3.png')
 

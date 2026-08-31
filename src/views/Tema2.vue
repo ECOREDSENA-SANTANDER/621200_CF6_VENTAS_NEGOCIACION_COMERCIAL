@@ -12,7 +12,7 @@
         .titulo-sexto.color-secundario.mb-4
           h5 Figura 2. 
           | Relaciones con clientes
-        img(data-aos="fade-right")(src='@/assets/curso/temas/tema2/fig1.png', alt='La imagen simula un panal de abejas, y en diferentes celdas se lee: Precios, distribuidores, comerciantes, clientes, cadena de valor.')
+        img(data-aos="fade-right")(src='@/assets/curso/temas/tema2/fig1.png', alt='Esquema en panal: empresa al centro, rodeada de proveedores, clientes, distribuidores, públicos interesados, vendedores y comerciantes.')
       .col-sm-12.col-md-12.col-lg-8
         p.mb-4 La fidelización se debe entender como una acción de la empresa para lograr conseguir relaciones con los clientes que generen acciones redituables y continuadas con la empresa a lo largo del tiempo. 
         .row.bgavatarazulclaro(data-aos="fade-left")
@@ -88,7 +88,7 @@
       .col-lg-4.p-0
         img(src='@/assets/curso/temas/tema2/img1.png')
 
-    p.mb-5 Para la construcción del manual de servicio al cliente, se debe tener en cuenta los siguientes elementos:
+    p.mb-5 Para la construcción del manual de servicio al cliente, se deben tener en cuenta los siguientes elementos:
 
     .row.align-items-center.justify-content-center.mb-5
         .col-12.col-md-8.col-lg-4

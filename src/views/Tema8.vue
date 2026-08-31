@@ -71,7 +71,7 @@
               .col-12
                 .bg-color-8
                   h3.text-center.mb-0.p-1 El soporte interno
-            p.mb-5.text-center.p-4 Lo conforma esa parte interna que no es visible al servicio, pero desde ahí se produce.
+            p.mb-5.text-center.p-4 Está conformado por los procesos y áreas internas que no son visibles para el cliente, pero que hacen posible la prestación del servicio.
       .col-sm-12.col-lg-3.col-md-12.mb-4(data-aos="fade-right")
         .overflow-hidden.h-100.p-2
           .row.align-items-center.justify-content-center.bg-color-10.br-2.p-1
@@ -91,7 +91,7 @@
               .col-12
                 .bg-color-8
                   h3.text-center.mb-0 El personal de contacto
-            p.text-center.p-5 Es quien sirve a los clientes sobre las necesidades del servicio.
+            p.text-center.p-5 Es el personal que interactúa directamente con el cliente para atender sus necesidades durante la prestación del servicio.
       .col-sm-12.col-lg-3.col-md-12.mb-4(data-aos="fade-right")
         .overflow-hidden.h-100.p-2
           .row.align-items-center.justify-content-center.bg-color-10.br-2.p-1

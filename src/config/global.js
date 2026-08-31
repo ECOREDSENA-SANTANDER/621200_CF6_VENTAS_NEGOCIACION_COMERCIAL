@@ -197,7 +197,7 @@ export default {
     {
       termino: 'Personal de contacto',
       significado:
-        'Es quien sirve a los clientes sobre las necesidades del servicio.',
+        'empleados que interactúan directamente con el cliente durante la prestación del servicio.',
     },
     {
       termino: 'Petición',
@@ -227,7 +227,7 @@ export default {
     {
       termino: 'Sugerencia',
       significado:
-        'Es la aportación de ideas o iniciativas para mejorar la calidad del servicio.',
+        'es la aportación de ideas o iniciativas para mejorar la calidad del servicio.',
     },
     {
       termino: 'Trazabilidad',
