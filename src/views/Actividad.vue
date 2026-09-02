@@ -476,7 +476,7 @@ export default {
               esCorrecta: true,
             },
             { id: 'c', texto: 'Un proceso de facturación.', esCorrecta: false },
-            { id: 'd', texto: 'La contabilidad. ', esCorrecta: false },
+            { id: 'd', texto: 'Un tipo de negociación.', esCorrecta: false },
           ],
           mensaje_correcto:
             'Se evidencia un adecuado dominio de los fundamentos de la atención al cliente.',
